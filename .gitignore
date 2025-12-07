@@ -1,0 +1,13 @@
+# PHP Backend Files
+*.php
+*.sql
+db_config.php
+database_schema.sql
+
+# Development files
+SETUP_INSTRUCTIONS.md
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
